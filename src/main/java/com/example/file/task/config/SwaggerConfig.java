@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 public class SwaggerConfig {
     @Bean
     public OpenAPI customOpenAPI() {
-        return new OpenAPI().addServersItem(new Server().url("http://localhost:1111"));
+        return new OpenAPI().addServersItem(new Server().url("http://localhost:3344"));
     }
 }
 
