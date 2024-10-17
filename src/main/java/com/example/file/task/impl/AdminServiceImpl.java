@@ -3,7 +3,7 @@ package com.example.file.task.impl;
 import com.example.file.task.dto.UserDto;
 import com.example.file.task.entity.Order;
 import com.example.file.task.entity.User;
-import com.example.file.task.mapper.UserMapper;
+import com.example.file.task.controller.mapper.UserMapper;
 import com.example.file.task.repository.OrderRepository;
 import com.example.file.task.repository.UserRepository;
 import com.example.file.task.roles.UserRole;
