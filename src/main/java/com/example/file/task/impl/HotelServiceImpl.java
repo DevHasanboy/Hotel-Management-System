@@ -3,7 +3,7 @@ package com.example.file.task.impl;
 import com.example.file.task.dto.HotelDto;
 import com.example.file.task.entity.Hotel;
 import com.example.file.task.filter.HotelFilter;
-import com.example.file.task.controller.mapper.HotelMapper;
+import com.example.file.task.mapper.HotelMapper;
 import com.example.file.task.repository.HotelRepository;
 import com.example.file.task.service.HotelService;
 import lombok.RequiredArgsConstructor;

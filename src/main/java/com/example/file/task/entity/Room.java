@@ -1,6 +1,6 @@
 package com.example.file.task.entity;
 
-import com.example.file.task.roles.RoomState;
+import com.example.file.task.enums.RoomState;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

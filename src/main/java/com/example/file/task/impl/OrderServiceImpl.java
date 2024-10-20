@@ -3,7 +3,7 @@ package com.example.file.task.impl;
 import com.example.file.task.dto.OrderDto;
 import com.example.file.task.entity.Order;
 import com.example.file.task.filter.OrderFilter;
-import com.example.file.task.controller.mapper.OrderMapper;
+import com.example.file.task.mapper.OrderMapper;
 import com.example.file.task.repository.OrderRepository;
 import com.example.file.task.service.OrderService;
 import lombok.RequiredArgsConstructor;

@@ -1,6 +1,6 @@
 package com.example.file.task.dto;
 
-import com.example.file.task.roles.UserRole;
+import com.example.file.task.enums.UserRole;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;
 import lombok.AllArgsConstructor;

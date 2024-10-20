@@ -1,4 +1,4 @@
-package com.example.file.task.controller.mapper;
+package com.example.file.task.mapper;
 
 import com.example.file.task.dto.RoomDto;
 import com.example.file.task.entity.Room;

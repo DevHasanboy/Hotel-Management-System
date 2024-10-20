@@ -4,7 +4,7 @@ import com.example.file.task.entity.Order;
 import com.example.file.task.entity.Room;
 import com.example.file.task.repository.OrderRepository;
 import com.example.file.task.repository.RoomRepository;
-import com.example.file.task.roles.RoomState;
+import com.example.file.task.enums.RoomState;
 import lombok.RequiredArgsConstructor;
 import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.scheduling.annotation.Scheduled;

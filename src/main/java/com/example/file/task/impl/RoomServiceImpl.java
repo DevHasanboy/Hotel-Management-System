@@ -4,7 +4,7 @@ import com.example.file.task.dto.RoomDto;
 import com.example.file.task.entity.Hotel;
 import com.example.file.task.entity.Room;
 import com.example.file.task.filter.RoomFilter;
-import com.example.file.task.controller.mapper.RoomMapper;
+import com.example.file.task.mapper.RoomMapper;
 import com.example.file.task.repository.HotelRepository;
 import com.example.file.task.repository.RoomRepository;
 import com.example.file.task.service.RoomService;

@@ -8,7 +8,7 @@ import com.example.file.task.repository.HotelRepository;
 import com.example.file.task.repository.OrderRepository;
 import com.example.file.task.repository.RoomRepository;
 import com.example.file.task.repository.UserRepository;
-import com.example.file.task.roles.RoomState;
+import com.example.file.task.enums.RoomState;
 import com.example.file.task.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

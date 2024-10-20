@@ -1,4 +1,4 @@
-package com.example.file.task.roles;
+package com.example.file.task.enums;
 
 public enum RoomState {
     ACTIVE,

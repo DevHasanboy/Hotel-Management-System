@@ -1,6 +1,6 @@
 package com.example.file.task.entity;
 
-import com.example.file.task.roles.UserRole;
+import com.example.file.task.enums.UserRole;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
